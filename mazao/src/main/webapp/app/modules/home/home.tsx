@@ -57,7 +57,7 @@ export const Home = (props: IHomeProp) => {
         </p>
 
        <p>
-          <Translate contentKey="home.question">Reach us at :info@mazao.com</Translate>
+          <Translate contentKey="home.question">Reach us at:info@mazao.com</Translate>
         </p>
         
 
